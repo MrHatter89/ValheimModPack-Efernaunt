@@ -1,5 +1,14 @@
 #
 
+## 1.0.3
+
+- Add
+  - StartupAccelerator
+- Remove
+  - CSync
+- Update version
+  - AlmanacClassSystem
+
 ## 1.0.2
 
 - Some plugins have been removed.
